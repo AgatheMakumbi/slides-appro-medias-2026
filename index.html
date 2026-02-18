@@ -1,0 +1,626 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<title>Approfondissement Média - HEIG-VD - COMEM - Marc Friederich</title>
+		<meta name="description" content="Approfondissement Média - donné par Marc Friederich dans le cadre de la formation COMEM à la HEIG-VD">
+		<link rel="stylesheet" href="dist/reset.css">
+		<link rel="stylesheet" href="dist/reveal.css">
+		<link rel="stylesheet" href="dist/theme/zufrieden.css" id="theme">
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="css/monokai.css">		
+	</head>
+	<body>
+		<svg xmlns="//www.w3.org/2000/svg" version="1.1" class="svg-filters" style="display:none;">
+		  <defs>
+			<filter id="marker-shape">
+			  <feTurbulence type="fractalNoise" baseFrequency="0 0.15" numOctaves="1" result="warp" />
+			  <feDisplacementMap xChannelSelector="R" yChannelSelector="G" scale="30" in="SourceGraphic" in2="warp" />
+			</filter>
+		  </defs>
+		</svg>
+		
+		<div class="reveal">
+			<div class="slides">
+				<!-- # Cover -->
+				<section>
+					<h2>Approfondissement Média <span style="font-size:0.8em;">🛰️</span></h2>
+					<p>M52 – HEIG-VD - COMEM</p>
+					<p>🧑‍🚀 Marc Friederich</p>
+				</section>
+				
+				<!-- ## Disclaimer -->
+				<section>
+					<h1>Disclaimer</h1>
+					<aside class="notes">
+						<ul>	
+							<li>Troisième fois que je donne ce cours</li>
+							<li>C'est résolument en indépendance</li>
+							<li>On va reprendre quelques trucs du lab de veille tech</li>
+						</ul>
+					</aside>
+				</section>
+				
+				<!-- ## Introduction (définition et contexte) -->
+				<section>
+					<section>
+						<h1>🚀</h1>
+						<aside class="notes">
+							Cette année vous finissez cette école<br/>
+							Ce cours vous donne l'opportunité d'ajouter une ligne à votre CV :-P 
+						</aside>
+					</section>
+					
+					<section>
+						<h2>Mise en pratique de l'auto-formation 🛸</h2>
+						<aside class="notes">
+							Il est temps de se spécialiser un peu. 
+						</aside>
+					</section>
+					<section>
+						<img src="src/weforum_top_10_skills_2025.jpeg" alt="" style="width:60vw;height:50vh;object-fit: contain;"> 
+						<aside class="notes">
+						  	<p>vous vous souvenez de ce graph du cours LabVeilleTech</p>
+							<p>
+								dans les 10 compétences importantes pour 2025 selon le World Economic Forum en 2020 - Vous avez <strong>active learning</strong> et <strong>learning strategies</strong>
+							</p>
+							<p>
+								<small>
+									<a href="https://www.weforum.org/agenda/2016/01/the-10-skills-you-need-to-thrive-in-the-fourth-industrial-revolution/">
+										https://www.weforum.org/agenda/2016/01/the-10-skills-you-need-to-thrive-in-the-fourth-industrial-revolution/
+									</a>
+								</small>
+							</p>
+							<p>
+								<small>
+									<a href="https://www.weforum.org/agenda/2020/10/top-10-work-skills-of-tomorrow-how-long-it-takes-to-learn-them/">
+										https://www.weforum.org/agenda/2020/10/top-10-work-skills-of-tomorrow-how-long-it-takes-to-learn-them/
+										</a>
+								</small>
+							</p>
+							<p>
+								<small>
+									<a href="https://www.proschoolonline.com/blog/managers-vs-leaders">https://www.proschoolonline.com/blog/managers-vs-leaders</a>
+								</small>
+							</p>
+						</aside>
+					</section>
+					<section>
+					  	<img src="src/weforum_top_10_skills_2020_2015.png" alt="" style="width:60vw;height:50vh;object-fit: contain;"> 
+						  <aside class="notes">
+							<p>
+								c'est nouveau, mais dans notre domaine ça a toujours été important
+							</p>
+						  </aside>
+					</section>
+					<section>
+						  <img src="src/weforum_top_10_skills_2023.png" alt="" style="width:60vw;height:50vh;object-fit: contain;"> 
+						  <aside class="notes">
+							<p>
+								Et 2023<br/>
+								avec selon moi, les avantages des ingénieur·es 🧑‍🚀 
+							</p>
+						  </aside>
+					</section>
+					<section>
+						  <img src="src/word_autoformation.jpg" alt="" style="width:60vw;height:50vh;object-fit: contain;"> 
+						  <aside class="notes">
+							<p>
+								Qui a fait médiamaticien ...
+							</p>
+						  </aside>
+					</section>
+					<section>
+						<h3>Pourquoi en autodidacte ? </h3>
+						<ol class="steps">
+							<li class="fragment fade-up">
+								<span class="step-icon">🚀</span>
+								<strong class="step-name">Rapidité</strong>
+							</li>
+							<li class="fragment fade-up">
+								<span class="step-icon">🛸</span>
+								<strong class="step-name">Pertinence</strong>
+							</li>
+							<li class="fragment fade-up">
+								<span class="step-icon">👾</span>
+								<strong class="step-name">Économie de coûts</strong>
+							</li>
+							<li class="fragment fade-up">
+								<span class="step-icon">🦾</span>
+								<strong class="step-name">Autonomie</strong>
+							</li>
+							<li class="fragment fade-up">
+								<span class="step-icon">🎮</span>
+								<strong class="step-name">Flexibilité</strong>
+							</li>							
+						</ol>
+						<aside class="notes">
+							<h3>Avantages pour votre compétitivité</h3>
+							<strong>Rapidité -></strong> En étant autonome dans sa formation, cela permet de se former sans attendre qu'une formation exsiste<br/>
+							<strong>Pertinence -></strong> Choix des sujets et de la granularité en fonction des besoins et du niveau de départ<br/>
+							<strong>Économie de coûts -></strong> Pour vous, pour votre employeur·euse<br/>
+							<strong>Autonomie -></strong> Full Responsabilité<br/>
+							<strong>Flexibilité -></strong> Contrôle total sur le processus d'apprentissage - Comme vous voulez.<br/>
+						</aside>
+					</section>
+					<section>
+						<h3>Autodidacte<br/>Les challenges</h3>
+						<ol class="steps">
+							<li class="fragment fade-up">
+								<span class="step-icon">🌌</span>
+								<strong class="step-name">Structure</strong>
+							</li>
+							<li class="fragment fade-up">
+								<span class="step-icon">🪐</span>
+								<strong class="step-name">Isolement</strong>
+							</li>
+							<li class="fragment fade-up">
+								<span class="step-icon">🔭</span>
+								<strong class="step-name">Évaluation des progrès</strong>
+							</li>
+							<li class="fragment fade-up">
+								<span class="step-icon">🧮</span>
+								<strong class="step-name">Choix des ressources</strong>
+							</li>
+							<li class="fragment fade-up">
+								<span class="step-icon">🪫</span>
+								<strong class="step-name">Motivation</strong>
+							</li>							
+						</ol>
+						<aside class="notes">
+							<br/><strong>Manque de structure : </strong> -> L'autoformation peut présenter le défi de l'absence d'un cadre éducatif formel, nécessitant ainsi une auto-discipline et une organisation accrues pour suivre un parcours d'apprentissage cohérent.
+							<br/><strong>Isolement et manque d'interaction : </strong> -> Les apprenants autonomes peuvent ressentir un isolement social, avec un accès limité aux interactions avec des pairs ou des instructeurs, ce qui peut influencer négativement la motivation et la compréhension.
+							<br/><strong>Évaluation subjective des progrès : </strong> -> L'évaluation de ses propres compétences peut être subjective en autoformation, avec un risque de surestimation ou de sous-estimation des compétences acquises, nécessitant ainsi des mécanismes d'évaluation plus objectifs.
+							<br/><strong>Manque de ressources fiables : </strong> -> Trouver des sources d'information fiables et actualisées peut être un défi, car l'autoformation dépend souvent de ressources en ligne, nécessitant une capacité à discerner la qualité du contenu éducatif.
+							<br/><strong>Motivation fluctuante : </strong> ->  Maintenir une motivation constante peut être difficile dans l'autoformation, car les apprenants peuvent être confrontés à des périodes de doute, de frustration ou de lassitude, nécessitant des stratégies efficaces pour maintenir l'engagement sur le long terme.
+						</aside>
+					</section>
+					<section>
+						<h2>
+							réflexion 🤳
+						</h2>
+						<aside class="notes">
+							C'est l'emoji selfie. pas super facile à reconnaitre<br/>
+							Petite réflexion sur vous même. Prenez 30 secondes.<br/>
+							Est-ce que vous vous sentez armé·es pour l'auto-formation ?
+						</aside>
+					</section>
+					<!-- <section>
+						<h1>👾😱</h1>
+						<aside class="notes">
+							<h3>Le but du cours, c'est de mettre en pratique l'auto-formation</h3>
+							Avec un sujet que vous pourrez choisir, et qui devra vous aider à préparer votre TB.
+						</aside>
+					</section> -->
+				</section>
+				
+				<!-- ## Objectifs et fonctionnement du cours -->
+				<section>	
+					<section>
+						<h2>L'objectif du cours 🧑‍🚀</h2>
+					
+						<ol class="steps">
+							<li class="fragment fade-up">
+								<span class="step-icon">🚀</span>
+								<strong class="step-name">Pratique et utile</strong>
+							</li>
+							<li class="fragment fade-up">
+								<span class="step-icon">🔭</span>
+								<strong class="step-name">Sujet précis</strong>
+							</li>
+							<li class="fragment fade-up">
+								<span class="step-icon">🤔</span>
+								<strong class="step-name">Analyser</strong>
+							</li>
+						</ol>
+					
+					<aside class="notes">
+						<ul>
+							<li>Mise en pratique</li>
+							<li>Formation sur un sujet précis</li>
+							<li>Prenez de la distance - Documentez vos attentes, méthodes, efforts</li>
+						</ul>
+					</aside>
+					</section>
+					<section>
+					<h2>Comment</h2>
+						<ol class="steps">
+							<li class="fragment fade-up">
+								<span class="step-icon">🌝</span>
+								<strong class="step-name">Définition du sujet</strong>
+							</li>
+							<li class="fragment fade-up">
+								<span class="step-icon">🔭</span>
+								<strong class="step-name">Objectifs d'apprentissage</strong>
+							</li>
+							<li class="fragment fade-up">
+								<span class="step-icon">🦺</span>
+								<strong class="step-name">Déroulé de l'auto-formation</strong>
+							</li>
+							<li class="fragment fade-up">
+								<span class="step-icon">🚦🚦</span>
+								<strong class="step-name">2 livrables</strong>
+							</li>
+						</ol>
+						<aside class="notes">
+							<strong>Définition du sujet</strong> -> en lien avec votre TB, et j'espère votre domaine ikigai<br/>
+							<strong>Objectifs d'apprentissage</strong> -> votre ambition pendant le temps de recherche<br/>
+							<strong>Déroulé de l'auto-formation</strong> -> votre plan de formation<br/>
+							<strong>2 Livrables</strong> -> une cette semaine, l'autre à la fin du cours<br/>
+						</aside>
+					</section>
+					<section>
+						<table style="font-size:0.4em;margin-top:1em;">
+							<tr>
+								<td width="30%">
+									<h4>
+										Livrables attendus
+									</h4>
+								</td>
+								<td>
+									<h3>Un rapport en 2 livraisons</h3>
+									<p>Ce sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique", ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB.</p>
+									<p>N'utilisez pas de LLM pour la rédaction. Utilisez le pour l'orthographe et pour questionner/valider vos idées.</p>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<h4>
+										50% – État initial et objectifs
+									</h4>
+									<p>Délai : 23 février 23h59</p>
+								</td>
+								<td>
+									<p>
+										✅ Le PR est réalisé sur GitHub avant la date limite
+									</p>
+									<p>
+										✅ Les objectifs sont SMART
+									</p>
+									<p>
+										✅ La démarche est cohérente
+									</p>							
+									<p>
+										✅ L'expérimentation permet de mesurer l'acquisition des compétences
+									</p>																
+									<p>
+										✅ Qualité/pertinence des 5 questions
+									</p>												
+								</td>
+							</tr>	
+							<tr>
+								<td>
+									<h4>
+										50% – Rapport final
+									</h4>
+									<p>Délai : 6 mars 23h59</p>
+								</td>
+								<td>
+									<p>
+										✅ Le PR est réalisé sur GitHub avant la date limite
+									</p>
+									<p>
+										✅ Conclusions et maturité sur l'auto-évaluation et sur l'expérimentation
+									</p>
+									<p>
+										✅ Réponses et reformulation des 5 questions
+									</p>							
+								</td>
+							</tr>													
+						</table>
+						<aside class="notes">
+							Comment je vais évaluer le cours
+						</aside>
+					</section>
+					<section>
+						<h2>Rendu Markdown</h2>
+						<p>Pull Request sur github</p>
+						<p><a href="https://github.com/zufrieden/slides-appro-medias-2026">https://github.com/zufrieden/slides-appro-medias-2026</a></p>
+						<p>rendu/m52_nom_prenom.md</p>
+					</section>
+					
+					<section>
+					  <h4>
+						  Sur le repository, cliquez sur Fork
+					  </h4>
+					  <img src="src/pull_request_steps_1016.png" alt="" style="width:60vw;height:50vh;object-fit: contain;"> 
+						<aside class="notes">
+						  <p>
+							  Les étapes pour le pull request
+						  </p>
+						</aside>
+				    </section>
+					<section>
+						<h4>Puis Create Fork</h4>
+					  <img src="src/pull_request_steps_1017.png" alt="" style="width:60vw;height:50vh;object-fit: contain;"> 
+				    </section>
+					<section>
+						<h4>Le repository est donc forké sur votre compte (Ça prend quelques secondes)</h4>
+					  <img src="src/pull_request_steps_1018.png" alt="" style="width:60vw;height:50vh;object-fit: contain;"> 
+				    </section>
+					<section>
+						<h4>Le repo est maintenant copié chez vous, naviguez dans le dossier rendus</h4>
+					  <img src="src/pull_request_steps_1019.png" alt="" style="width:60vw;height:50vh;object-fit: contain;"> 
+				    </section>
+					<section>
+						<h4>Trouver votre fichier, ouvrez-le</h4>
+					  <img src="src/pull_request_steps_1020.png" alt="" style="width:60vw;height:50vh;object-fit: contain;"> 
+				    </section>
+					<section>
+						<h4>Cliquer sur le crayon pour éditer le fichier</h4>
+					  <img src="src/pull_request_steps_1021.png" alt="" style="width:60vw;height:50vh;object-fit: contain;"> 
+				    </section>
+					<section>
+						<h4>Modifier le fichier</h4>
+					  <img src="src/pull_request_steps_1023.png" alt="" style="width:60vw;height:50vh;object-fit: contain;"> 
+				    </section>
+					<section>
+						<h4>Vous pouvez pré-visualiser le résultat et commit pour sauver vos changements</h4>
+					  <img src="src/pull_request_steps_1024.png" alt="" style="width:60vw;height:50vh;object-fit: contain;"> 
+				    </section>
+					<section>
+						<h4>Préciser votre message de commit</h4>
+					  <img src="src/pull_request_steps_1025.png" alt="" style="width:60vw;height:50vh;object-fit: contain;"> 
+				    </section>
+					<section>
+						<h4>Quand vous êtes prét·es, créer le Pull request</h4>
+					  <img src="src/pull_request_steps_1027.png" alt="" style="width:60vw;height:50vh;object-fit: contain;"> 
+				    </section>
+					<section>
+						<h4>Cliquez sur "New Pull Request"</h4>
+					  <img src="src/pull_request_steps_1028.png" alt="" style="width:60vw;height:50vh;object-fit: contain;"> 
+				    </section>
+					<section>
+						<h4>Cliquez sur "Create Pull request"</h4>
+					  <img src="src/pull_request_steps_1029.png" alt="" style="width:60vw;height:50vh;object-fit: contain;"> 
+				    </section>
+					<section>
+						<h4>Donner un titre au PR, avec votre nom SVP</h4>
+					  <img src="src/pull_request_steps_1030.png" alt="" style="width:60vw;height:50vh;object-fit: contain;"> 
+				    </section>
+					<section>
+						<h4>Puis cliquez sur "Create Pull request</h4>
+					  <img src="src/pull_request_steps_1031.png" alt="" style="width:60vw;height:50vh;object-fit: contain;"> 
+				    </section>
+					<section>
+						<h4>Et voilà, vous m'avez soumis votre rendu</h4>
+					  <img src="src/pull_request_steps_1032.png" alt="" style="width:60vw;height:50vh;object-fit: contain;"> 
+				    </section>
+					
+					
+
+					<section>
+						<h2>Contenu du rendu 1/2</h2>
+						<ol class="steps">
+							<li class="fragment fade-up">
+								<span class="step-icon">🚀</span>
+								<strong class="step-name">Sujet d'étude</strong>
+							</li>
+							<li class="fragment fade-up">
+								<span class="step-icon">🌌</span>
+								<strong class="step-name">Contexte</strong>
+							</li>
+							<li class="fragment fade-up">
+								<span class="step-icon">⚫</span>
+								<strong class="step-name">Etat initial</strong>
+							</li>
+							<li class="fragment fade-up">
+								<span class="step-icon">🔭</span>
+								<strong class="step-name">Objectifs</strong>
+							</li>
+							<li class="fragment fade-up">
+								<span class="step-icon">📊</span>
+								<strong class="step-name">Démarches <br/>et expérimentation</strong>
+							</li>
+							<li class="fragment fade-up">
+								<span class="step-icon">5️⃣</span>
+								<strong class="step-name">5 questions</strong>
+							</li>														
+						</ol>
+
+
+						<aside class="notes">
+							Décrire le sujet<br/>
+							
+							Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB.<br/><br/>
+							Contexte<br/>
+							
+							Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ?<br/><br/>
+							État initial<br/>
+							
+							Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?
+							Objectifs<br/><br/>
+							
+							Attention à formuler des objectifs SMART.<br/>
+							
+							Expliquez comment vous allez valider l'atteinte des objectifs.<br/><br/>
+							Démarche<br/>
+							
+							Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?<br/><br/>
+							5 questions<br/>
+							
+							Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences.	<br/>
+						</aside>
+					</section>
+<section>
+						<h2>Contenu du rendu 2/2</h2>
+						<ol class="steps">
+							<li class="fragment fade-up">
+								<span class="step-icon">🌌</span>
+								<strong class="step-name">Retour sur l'état initial <br/>et l'expérimentation</strong>
+							</li>
+							<li class="fragment fade-up">
+								<span class="step-icon">5️⃣</span>
+								<strong class="step-name">5 réponses</strong>
+							</li>														
+							<li class="fragment fade-up">
+								<span class="step-icon">⏱️</span>
+								<strong class="step-name">Investissement</strong>
+							</li>
+							<li class="fragment fade-up">
+								<span class="step-icon">💭</span>
+								<strong class="step-name">Réflexion sur la méthode</strong>
+							</li>
+							<li class="fragment fade-up">
+								<span class="step-icon">🔬</span>
+								<strong class="step-name">Conclusion</strong>
+							</li>
+						</ol>
+					
+					
+						<aside class="notes">
+							Retour sur l'état initial<br/>
+							
+							Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?<br/><br/>
+							Réponses aux 5 questions<br/>
+							
+							Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question.<br/><br/>
+							Investissement<br/>
+							
+							Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi.<br/><br/>
+							Réflexion sur la méthode d'auto-formation<br/>
+							
+							En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?<br/><br/>
+							Conclusion<br/>
+							
+							Quelles leçons avez-vous apprises et pourquoi ?
+						</aside>
+					</section>					
+					<section>
+						<h3>🧑‍🚀 Coaching/Aide</h3>
+						<p>Aujourd'hui et le vendredi 6 mars au matin</p>
+						<p>Ou via 📨 <a href="mailto:m@zufrieden.io">m@zufrieden.io</a></p>
+						<aside class="notes">
+							
+						</aside>
+					</section>
+					<section>
+						<h2>Questions?</h2>
+						<aside class="notes">
+							
+						</aside>
+					</section>	
+				</section>	
+				
+							
+				
+				
+			</div>
+		</div>
+
+		<canvas id="space"></canvas>
+		<style>
+			#space{
+				position: absolute;
+				inset: 0;
+				
+			}
+		</style>
+		<script src="dist/reveal.js"></script>
+		<script src="plugin/notes/notes.js"></script>
+		<script src="plugin/markdown/markdown.js"></script>
+		<script src="plugin/highlight/highlight.js"></script>
+		<script>
+			// More info about initialization & config:
+			// - https://revealjs.com/initialization/
+			// - https://revealjs.com/config/
+			Reveal.initialize({
+				hash: true,
+
+				// Learn about plugins: https://revealjs.com/plugins/
+				plugins: [ RevealHighlight, RevealNotes ]
+			});
+			// Reveal.configure({ showNotes: true });
+		</script>
+		<script>
+			// Stars background 
+				//based on an Example by @curran
+				window.requestAnimFrame = (function(){   return  window.requestAnimationFrame})();
+				var canvas = document.getElementById("space");
+				var c = canvas.getContext("2d");
+				
+				var numStars = 1900;
+				var radius = '0.'+Math.floor(Math.random() * 9) + 1  ;
+				var focalLength = canvas.width *2;
+				var warp = 0;
+				var centerX, centerY;
+				
+				var stars = [], star;
+				var i;
+				
+				var animate = true;
+				
+				initializeStars();
+				
+				function executeFrame(){
+				  
+				  if(animate)
+					requestAnimFrame(executeFrame);
+				  moveStars();
+				  drawStars();
+				}
+				
+				function initializeStars(){
+				  centerX = canvas.width / 2;
+				  centerY = canvas.height / 2;
+				  
+				  stars = [];
+				  for(i = 0; i < numStars; i++){
+					star = {
+					  x: Math.random() * canvas.width,
+					  y: Math.random() * canvas.height,
+					  z: Math.random() * canvas.width,
+					  o: '0.'+Math.floor(Math.random() * 99) + 1
+					};
+					stars.push(star);
+				  }
+				}
+				
+				function moveStars(){
+				  for(i = 0; i < numStars; i++){
+					star = stars[i];
+					star.z--;
+					
+					if(star.z <= 0){
+					  star.z = canvas.width;
+					}
+				  }
+				}
+				
+				function drawStars(){
+				  var pixelX, pixelY, pixelRadius;
+				  
+				  // Resize to the screen
+				  if(canvas.width != window.innerWidth || canvas.width != window.innerWidth){
+					canvas.width = window.innerWidth;
+					canvas.height = window.innerHeight;
+					initializeStars();
+				  }
+				  if(warp==0)
+				  {c.fillStyle = "rgba(0,10,20,1)";
+				  c.fillRect(0,0, canvas.width, canvas.height);}
+				  c.fillStyle = "rgba(209, 255, 255, "+radius+")";
+				  for(i = 0; i < numStars; i++){
+					star = stars[i];
+					
+					pixelX = (star.x - centerX) * (focalLength / star.z);
+					pixelX += centerX;
+					pixelY = (star.y - centerY) * (focalLength / star.z);
+					pixelY += centerY;
+					pixelRadius = 1 * (focalLength / star.z);
+					
+					c.fillRect(pixelX, pixelY, pixelRadius, pixelRadius);
+					c.fillStyle = "rgba(209, 255, 255, "+star.o+")";
+					//c.fill();
+				  }
+				}
+				
+				
+				
+				executeFrame();
+			
+				
+		</script>
+	</body>
+</html>
