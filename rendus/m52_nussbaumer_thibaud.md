@@ -35,27 +35,27 @@ Cela implique naturellement de trouver des ressources pour me former en conséqu
 **Contexte** : le cours d'Openclassroom dure environ ~10h. Voir [section Démarche](#démarche) et [section Expérimentation](#expérimentation)
 
 ### 1. Objectif Théorique (Compréhension)
-**Objectif** : Maîtriser les concepts fondamentaux de la conteneurisation d'ici la fin de la première semaine.
-**Spécifique** : Être capable d'expliquer la différence entre une image et un conteneur, et de comprendre l'utilité de Docker Compose.
-**Mesurable** : Réussir les quiz du cours OpenClassrooms avec un score minimum de 80%.
-**Atteignable** : En suivant les modules 1 et 2 du cours OpenClassrooms.
-**Réaliste** : Le cours dispense les notions fondamentales de Docker.
+**Objectif** : Maîtriser les concepts fondamentaux de la conteneurisation d'ici la fin de la première semaine.\
+**Spécifique** : Être capable d'expliquer la différence entre une image et un conteneur, et de comprendre l'utilité de Docker Compose.\
+**Mesurable** : Réussir les quiz du cours OpenClassrooms avec un score minimum de 80%.\
+**Atteignable** : En suivant les modules 1 et 2 du cours OpenClassrooms.\
+**Réaliste** : Le cours dispense les notions fondamentales de Docker.\
 **Temporel** : À réaliser avant le 25.02.2026.
 
 ### 2. Objectif Technique (Dockerfile & Images)
-**Objectif** : Créer et builder une image Docker personnalisée pour une application front-end simple.
-**Spécifique** : Rédiger un Dockerfile optimisé pour l'application "TodoList".
-**Mesurable** : L'image doit se builder sans erreur et l'application doit être accessible sur le port 80 de la machine hôte.
-**Atteignable** : En suivant les modules 1 et 2 du cours OpenClassrooms.
-**Réaliste** : C'est la base nécessaire avant de passer à l'orchestration complexe.
+**Objectif** : Créer et builder une image Docker personnalisée pour une application front-end simple.\
+**Spécifique** : Rédiger un Dockerfile optimisé pour l'application "TodoList".\
+**Mesurable** : L'image doit se builder sans erreur et l'application doit être accessible sur le port 80 de la machine hôte.\
+**Atteignable** : En suivant les modules 1 et 2 du cours OpenClassrooms.\
+**Réaliste** : C'est la base nécessaire avant de passer à l'orchestration complexe.\
 **Temporel** : À réaliser avant le 01.03.2026.
 
 ### 3. Objectif d'Orchestration (Docker Compose)
-**Objectif** : Déployer un environnement multi-conteneurs.
-**Spécifique** : Rédiger un fichier docker-compose.yml qui lie l'application "TodoList" à une base de données PostgreSQL avec persistance des données (volumes).
-**Mesurable** : Les données ajoutées dans la TodoList doivent survivre au redémarrage des conteneurs.
-**Atteignable** : En consultant la documentation de Docker, voir des articles en dehors du cours d'OpenClassrooms.
-**Réaliste** : Un projet "TodoList" est simple, et ne nécessite pas des configurations poussées.
+**Objectif** : Déployer un environnement multi-conteneurs.\
+**Spécifique** : Rédiger un fichier docker-compose.yml qui lie l'application "TodoList" à une base de données PostgreSQL avec persistance des données (volumes).\
+**Mesurable** : Les données ajoutées dans la TodoList doivent survivre au redémarrage des conteneurs.\
+**Atteignable** : En consultant la documentation de Docker, voir des articles en dehors du cours d'OpenClassrooms.\
+**Réaliste** : Un projet "TodoList" est simple, et ne nécessite pas des configurations poussées.\
 **Temporel** : À réaliser avant le 06.03.2026.
 
 ## Démarche
