@@ -1,16 +1,19 @@
-# M52-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M52-1/2 Rurangirwa Vincent - Qu'est ce qu'un LMS?
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 23 FEVRIER 23h59
 
-## Mon sujet d'étude est ...
+## Mon sujet d'étude est la définition et exploration des possibilités et des limites des LMS (Learning Management System)
 
 **_Décrire le sujet_**
 
 _Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
 
+
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ? En quoi c'est intéressant pour votre futur professionnel_
+En quoi c'est intéressant pour votre futur professionnel_
+
+Mon travail de Bachelor consiste en la conception et le déploiement d'une plateforme de cours en ligne. La gestion de ces cours se fait via un LMS (Learning Management System). Beaucoup de LMS différents existent et la technologie à déjà subi des évolutions depuis sa conception. Pour me permettre de répondre au mieux à la problématique de mon TB, il me faut aquérir une connaîssance sur le contexte et les usage de cette technologie. 
 
 ## État initial
 
