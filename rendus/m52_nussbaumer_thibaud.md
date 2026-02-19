@@ -32,7 +32,7 @@ Cela implique naturellement de trouver des ressources pour me former en conséqu
 
 ## Objectifs
 
-**Contexte** : le cours d'Openclassroom dure environ ~10h. Voir [section Démarche](#demarche) et [section Expérimentation](#experimentation)
+**Contexte** : le cours d'Openclassroom dure environ ~10h. Voir [section Démarche](#démarche) et [section Expérimentation](#expérimentation)
 
 ### 1. Objectif Théorique (Compréhension)
 **Objectif** : Maîtriser les concepts fondamentaux de la conteneurisation d'ici la fin de la première semaine.
