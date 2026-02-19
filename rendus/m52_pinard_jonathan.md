@@ -81,6 +81,8 @@ _Quelles étapes et comment allez-vous répartir l'investissement des 36h dispon
 
 Ma méthode d'apprentissage repose sur un cycle systématique : (1) visionner le cours magistral, (2) prendre des notes sur les concepts clés, (3) résoudre les problem sets sans aide dans un premier temps, (4) consulter les ressources complémentaires uniquement si un blocage persiste. Je n'utilise pas l'IA pour générer les solutions des exercices, car cela viderait l'exercice de sa valeur pédagogique.
 
+Répartiton : 36H pour finir la formation au complet. Si possible avec le projet final aussi. Travail et horaires au feeling.
+
 **Ressources principales :**
 
 - [CS50P – edX](https://cs50.harvard.edu/python/) — Cours officiel Harvard
