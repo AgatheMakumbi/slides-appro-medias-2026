@@ -1,16 +1,23 @@
-# M52-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M52-1/2 NUSSBAUMER THIBAUD - ÉCOSYSTÈME DOCKER
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 23 FEVRIER 23h59
 
-## Mon sujet d'étude est ...
+## Mon sujet d'étude est la création d'un écosystème Docker avec Docker Compose
 
-**_Décrire le sujet_**
+### Problématique de l'agence
 
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+Makema se développe dans les domaines du SEO et GEO. Ce dernier en particulier, très à la mode et évoluant de pair avec les IA, génère un flux conséquent de publications à son sujet.
+L’agence souhaite être à jour sur les nouveautés de ces domaines et tirer profit d’un outil permettant d’agréger ces données et de découvrir les __leviers__ possible à utiliser dans les projets de leurs clients. Un tel outil permettrait notamment à l’agence de se démarquer de ses concurrents et d’optimiser leur processus de travail et d’idéation.
+
+### Solution trouvée durant ma Pré-Étude
+
+Une solution que j'ai trouvée pour cette problématique est l'utilisation d'un système d'orchestration, en particulier N8N, afin d'automatiser une Newsletter journalière/hebdomadaire vulgarisée par un agent IA. La particularité du système, est qu'il intègrera un système RAG afin de pouvoir y connecter les Agents IA utilisés en interne et ainsi découvrir les __leviers__.
+
+Pour faciliter le développement, ainsi que le déploiement, une encapsulation avec Docker me semble être une bonne solution. Cependant, je ne connais Docker que de nom ainsi que les problèmes qu'il résout. 
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ? En quoi c'est intéressant pour votre futur professionnel_
+Outre les raisons citées ci-dessus, Docker me sera également utile dans mon profil professionnel de développeur web. Savoir utiliser cette plateforme enrichira non seulement mon C.V, mais également 
 
 ## État initial
 
