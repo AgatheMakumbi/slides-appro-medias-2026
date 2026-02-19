@@ -69,13 +69,10 @@ Afin d'organiser mon planning autour de ce projet, ainsi que des deadlines impos
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
-
 1. Suis-je capable d'écrire un Dockerfile en me basant sur la documentation de Docker ainsi que mes propres notes ?
 2. Suis-je capable d'écrire un Docker Compose en me basant sur la documentation de Docker ainsi que mes propres notes ?
 3. Est-ce que mon application persiste dans le temps ?
 4. Est-ce que ma prise de note, avec Obsidian, est efficace et facilement utilisable ?
-5. 
 
 ## Expérimentation
 
