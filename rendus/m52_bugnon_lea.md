@@ -2,37 +2,61 @@
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 23 FEVRIER 23h59
 
-## Mon sujet d'étude est ...
+## Mon sujet d'étude est l'intégration d'un DAM existant sur un site de gestion de photographie
 
 **_Décrire le sujet_**
 
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+Pour mon TB, je dois intégrer un DAM existant sur le site que je vais créer dans le but de digitaliser une agence de photo de presse. Le but est d'apprendre comment installer et prendre en main un DAM, comprendre comment stocker et difuser les images ainsi que réaliser un prototype simple.
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ? En quoi c'est intéressant pour votre futur professionnel_
+J'ai choisi ce sujet car nous n'avons jamais vu cela pendant la formation et c'est une partie très importante de mon TB, je trouvais cela intéressant de comprendre comment mettre cela en place et comment cela fonctionne pour gagner du temps pendant le TB. Etant donné que c'est la seule chose que nous n'avons jamais vue j'ai décidé de me pencher la dessus.
+En aprennant les bases des DAM, cela m'aidera certainement à en choisir un adapté à mon TB.
+Cela me sera certainement utile par la suite étant donné que je veux travailler dans la photographie.
 
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+Grâce à la formation, je dispose de bonne bases en programmation, site web... mais aucune avec les DAM, API de DAM ... donc cela nécesitera une phase d'aprentissage technique, des tests pratiques et de la documentation.
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART (spécifiques, mesurables, atteignables, réalistes, temporellement mesurables)._
+objectifs;
+comprendre le fonctionnement d'un système DAM appliqué à la gestion de photos.
+installer et configurer une solution DAM en environnement local.
+tester l'import, l'organisation et la gestion de photos dans le DAM.
+comprendre et tester l'API du DAM pour récuperer les images et leurs metadonnées.
+réaliser un prototype web simple en affichant des images stockées dans le DAM.
 
-_Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de réussite concrets._
+critères de réussite;
+DAM installé et fonctionne en local
+des photos de test sont importées dans le système
+les metadonnées sont accessibles
+une requête API permet de récuperer les images
+une page prototype afficher une galerie depuis le dam
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+recherche & benchmark DAM
+installation & configuration
+test d'import d'image et métadonnées
+test techniques (API, récuperation d'images)
+developpement d'un mini prototype simple
+documentation et analyse
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+
+Comment installer et configurer un DAM en local ?
+Comment structurer et organiser des archives photographiques dans un DAM ?
+comment récupérer des images et métadonnées vis l'API du DAM ?
+Comment gérer les métadonnées des images dans un DAM ?
+CComment intégrer les images d’un DAM dans un prototype web (galerie dynamique) ?
+
+
 
 ## Expérimentation
 
-_Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
+Réaliser un prototype web simple pour visualiser les photos du DAM.
 
 ---
 
