@@ -36,7 +36,7 @@ Pour rédiger les questions, je me suis basé sur un article : https://www.ispri
 
 ## Expérimentation
 
-Pour la phase d'expérimentation, j'aimerais mettre en place un framework de sélection de LMS simple qui permet d'entrer des paramètre, par exemple le nombre d'apprenant, d'administrateur et de professeurs ainsi qu'un budget et les fonctionnalités que l'on veut. Sur la base de nos paramètres, l'outil doit nous indiquer vers quel type de plateforme et d'hébergement. Idéalement sous forme de page web.
+Pour la phase d'expérimentation, j'aimerais mettre en place un framework de sélection de LMS simple qui permet d'entrer des paramètre, par exemple le nombre d'apprenant, d'administrateur et de professeurs ainsi qu'un budget et les fonctionnalités que l'on veut. Sur la base de nos paramètres, l'outil doit nous indiquer vers quel type de plateforme et d'hébergement. Idéalement sous forme de page web. 
 
 ---
 
