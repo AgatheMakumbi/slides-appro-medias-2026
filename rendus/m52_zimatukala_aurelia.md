@@ -1,4 +1,4 @@
-# M52-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M52-1/2 ZIMA-TUKALA AURÉLIA - SUJET_ETUDE
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 23 FEVRIER 23h59
 
@@ -6,51 +6,43 @@
 
 **_Décrire le sujet_**
 
-Mon sujet est de maîtriser le logiciel VidéoAsk afin d'acquérir des compétences sur la création d'entretiens qualitatifs, interactifs et efficaces. Je ne pense pas que j'aurais suffisamment de temps de faire beaucoup d'entretiens physiques, cet outils est un bon moyen pour technique pour récolter des données utilisateurs via la vidéo asynchrone, un format idéal pour capter le non-verbal, les freins et les émotions de ma cible.
+Mon objectif est de maîtriser le logiciel VidéoAsk afin de développer des compétences dans la conception d’entretiens qualitatifs interactifs et pertinents. Étant donné les contraintes de temps, il me sera difficile de mener un grand nombre d’entretiens en présentiel. 
+Cet outil constitue donc une alternative méthodologique intéressante, puisqu’il permet de collecter des données utilisateurs via un format vidéo asynchrone. 
+Ce dispositif est particulièrement adapté pour analyser les éléments non verbaux, identifier les freins et mieux comprendre les émotions et perceptions de ma cible.
 
 ### Contexte
-J'ai choisi ce sujet car je dois crée un nouveau produit ou service pour mon TB. Apprendre à utiliser ce logiciel me permettra de créer et analyser mes entretiens clients de manière innovante afin d'élaborer le produit le plus adaptées à leur besoins réels.  Apprendre à utiliser ce logiciel me permettra de créer et d'analyser mes entretiens clients de manière innovante afin d'élaborer le produit le plus adapté à leurs besoins réels. Pour mon futur professionnel, maîtriser un outil d'expérience utilisateur conversationnel comme VideoAsk est un atout majeur, car l'interaction vidéo devient incontournable dans la relation client.
+J’ai choisi ce sujet dans le cadre de mon travail de Bachelor, qui implique la conception d’un nouveau produit ou service. L’apprentissage de ce logiciel me permettra de concevoir et d’analyser mes entretiens clients de manière innovante et structurée, afin de développer une solution réellement alignée avec leurs besoins. 
+Par ailleurs, la maîtrise d’un outil conversationnel d’expérience utilisateur tel que VidéoAsk représente un atout significatif pour mon avenir professionnel, dans un contexte où l’interaction vidéo occupe une place croissante et stratégique dans la relation client.
 
 ## État initial
 
-Je suis totalement novice dans cette compétence, je n'ai jamais utilisé ce logiciel. Implications pour la démarche : Je vais devoir apprendre à la fois la technique de l'outil et la méthodologie soit comment scénariser, rédiger et énoncer face caméra des questions ouvertes qui incitent les utilisateurs à se livrer.
+Étant totalement novice dans ce domaine, je n’ai encore jamais utilisé ce logiciel. Cette situation implique un double apprentissage dans ma démarche : d’une part, l’acquisition des compétences techniques liées à l’utilisation de l’outil, et d’autre part, l’appropriation de la méthodologie associée. Cela comprend notamment la capacité à scénariser un entretien, à formuler des questions ouvertes pertinentes et à les énoncer de manière claire et engageante face caméra, afin d’encourager les utilisateurs à s’exprimer librement et en profondeur.
 
 ## Objectifs
 
-Objectif principal : À l'issue des 36 heures d'auto-formation, je serai capable de concevoir, diffuser et analyser de manière autonome un entonnoir d'entretiens qualitatifs via VideoAsk pour mon Travail de Bachelor.
-
-Sous-objectifs SMART :
-1. Conception : Créer un parcours vidéo interactif de 4 à 6 étapes, incluant au moins un branchement conditionnel (logique de saut selon la réponse donnée) d'ici la fin de la 2ème semaine.
-2. Technique : Paramétrer les options de collecte de données (formulaire de contact intégré et écran de consentement RGPD) avant le début de l'enregistrement utilisateur.
-3. Analyse : Récolter un minimum de 5 à 10 réponses (audio/vidéo) et utiliser les outils de VideoAsk (transcription et tags) pour catégoriser les verbatims et en extraire 3 thématiques majeures.
-
-Critères de réussite concrets :
-L'atteinte des objectifs sera validée par la présentation du lien public fonctionnel du VideoAsk, ainsi que par des captures d'écran du tableau de bord d'analyse prouvant ma capacité à trier, corriger et étiqueter (tagger) les transcriptions textuelles des vidéos reçues.
+L’objectif principal de cette auto-formation est d’acquérir une maîtrise opérationnelle de VidéoAsk dans le cadre de mon Travail de Bachelor. 
+Concrètement, au terme des 36 heures prévues, je devrai être capable de concevoir un dispositif d’entretiens qualitatifs structuré sous forme d’entonnoir, de le diffuser auprès de ma cible, puis d’en analyser les résultats de manière autonome. Il s’agit donc de développer à la fois des compétences techniques, méthodologiques et analytiques.
 
 
 ## Démarche
 
-Je vais structurer mon investissement de 36h en 4 grandes phases :
+Dans le cadre de mon auto-formation, j’ai planifié un investissement total de 36 heures, réparties en quatre phases distinctes. Cette organisation me permet de structurer mon apprentissage de manière progressive, en articulant théorie, mise en pratique et analyse.
 
-1. Théorie et Scénarisation (8h)**
-    * Prise en main de l'interface VideoAsk et de ses fonctionnalités de base.
-    * Rédaction du script des questions et scénarisation de l'arborescence.
-    * Étude des bonnes pratiques de la captation vidéo (lumière, son, cadrage).
-  
-2. Production et Paramétrage (10h)**
-    * Tournage de mes vidéos de questions directement dans l'outil.
-    * Intégration de la logique conditionnelle (Routing).
-    * Configuration des types de réponses acceptées (Texte, Audio, Vidéo).
+1. Phase de théorie et de scénarisation (8h)
+La première étape consiste à me familiariser avec l’interface de VidéoAsk et à comprendre ses principales fonctionnalités. L’objectif est d’acquérir une vision globale de l’outil afin d’en exploiter pleinement le potentiel.
+Parallèlement, je consacrerai du temps à la rédaction du script de mes questions ainsi qu’à la construction de l’arborescence de l’entretien. Cette phase de scénarisation est essentielle pour garantir la cohérence du parcours utilisateur et la pertinence des données récoltées.
 
-3. Déploiement et Tests (6h)
-    * Tests de l'expérience utilisateur (UX) sur mobile et ordinateur.
-    * Paramétrage du formulaire de recueil de coordonnées et de consentement.
+2. Phase de production et de paramétrage (10h)
+Cette deuxième phase sera dédiée à la mise en œuvre concrète du dispositif. Je réaliserai des vidéos directement dans l’outil, en veillant à adopter une posture claire et professionnelle face caméra.
+J’intégrerai ensuite la logique conditionnelle afin de créer un parcours interactif adapté aux différentes réponses possibles. Enfin, je configurerai les types de réponses autorisées (texte, audio ou vidéo), en fonction des objectifs méthodologiques définis en amont.
 
-4. Collecte et Analyse sémantique (12h)
-    * Collecte des réponses auprès de mon entourage ou de ma cible TB.
-    * Correction des transcriptions automatiques générées par l'outil.
-    * Création et application de "Tags" (étiquettes) pour regrouper les réponses par thèmes.
-    * Rédaction du bilan final de l'auto-formation.
+3. Phase de déploiement et de tests (6h)
+Avant la diffusion officielle, je procéderai à une série de tests afin d’évaluer l’expérience utilisateur. Je paramétrerai également le formulaire de collecte des coordonnées ainsi que le consentement, afin de garantir un cadre éthique et conforme aux exigences en matière de protection des données.
+
+4. Phase de collecte et d’analyse (12h)
+La dernière phase portera sur la diffusion du dispositif et la collecte des réponses auprès de mon entourage. Une fois les données récoltées, je corrigerai les transcriptions automatiques générées par l’outil afin d’en assurer la fiabilité.
+Enfin, je rédigerai un bilan final d’auto-formation, dans lequel j’analyserai les résultats obtenus, les compétences développées ainsi que les limites rencontrées au cours du processus.
+
 
 ## 5 questions
 
@@ -63,13 +55,9 @@ Je vais structurer mon investissement de 36h en 4 grandes phases :
 
 ## Expérimentation
 
-POC : Le Dispositif d'Interview interactif du TB
-
-Pour valider mon apprentissage, je vais réaliser concrètement la campagne d'entretiens qualitatifs de mon Travail de Bachelor.
-
-1. Livrable 1 (Front-end) : Le lien URL de mon VideoAsk entièrement fonctionnel, testable avec mes propres vidéos posant les questions.
-2. Livrable 2 (Back-office) : Je récolterai de vraies données. Je fournirai un document ou des captures d'écran montrant comment j'ai traité ces données dans l'interface VideoAsk
-
+Pour valider mon apprentissage, je réaliserai un Proof of Concept (POC) matérialisé par la création d’un dispositif VidéoAsk opérationnel.
+Celui-ci prendra la forme d’un lien URL fonctionnel donnant accès à un parcours interactif structuré, intégrant mes propres vidéos de questions.
+En complément, je fournirai un document de synthèse ainsi que des captures d’écran du tableau de bord d’analyse, attestant de la collecte effective des données.
 
 ---
 
