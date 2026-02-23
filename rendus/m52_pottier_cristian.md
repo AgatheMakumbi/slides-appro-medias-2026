@@ -108,6 +108,8 @@ Phase 3 – Analyse et optimisation (10h)
 ⸻
 
 5 questions
+
+
 	1.	Comment relier correctement GA4 à Google Ads pour un suivi de conversion fiable ?
 	2.	Quelle différence entre un événement personnalisé, une conversion et un objectif ?
 	3.	Quels KPIs sont réellement pertinents pour évaluer la performance d’une campagne Search ?
@@ -121,6 +123,7 @@ Expérimentation
 L’expérimentation reposera principalement sur la réalisation de formations en ligne officielles via Google Skillshop (Google Ads Search et Google Analytics 4).
 
 Ces formations incluent :
+
 	•	des modules théoriques progressifs
 	•	des mises en situation
 	•	des quiz intermédiaires
@@ -131,6 +134,7 @@ L’obtention des certifications constituera une validation formelle de l’acqu
 En complément, je réaliserai les exercices pratiques intégrés aux modules afin de tester ma compréhension des concepts abordés (structure de campagne, stratégie d’enchères, lecture de rapports GA4, configuration de conversions).
 
 L’expérimentation sera validée par :
+
 	•	la réussite des certifications
 	•	la capacité à reformuler et expliquer les concepts appris
 	•	la réponse argumentée aux cinq questions définies dans ce livrable
