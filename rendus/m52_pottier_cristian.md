@@ -4,35 +4,128 @@
 
 ## Mon sujet d'étude est ...
 
+_Approfondissement du tracking marketing digital et de l’analyse de performance via Google Analytics 4 (GA4), Google Tag Manager (GTM) et Google Ads._ 
+
 **_Décrire le sujet_**
 
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+_Ce sujet porte sur la mise en place technique d’un système complet de suivi des performances marketing digitales. Il inclut la configuration de GA4, l’implémentation d’événements personnalisés via Google Tag Manager, le paramétrage du suivi des conversions dans Google Ads et l’analyse des données collectées afin d’optimiser les campagnes.
+
+L’objectif est de comprendre, configurer et exploiter un système de tracking fiable permettant de mesurer les conversions, le comportement utilisateur et le retour sur investissement des campagnes.
+
+Ce sujet est directement lié à mon Travail de Bachelor, qui implique la mise en œuvre de campagnes Google Ads et l’optimisation SEO pour VT Vacances._
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ? En quoi c'est intéressant pour votre futur professionnel_
+_Dans le cadre de mon TB, je dois mettre en place une stratégie digitale B2C incluant SEO, Google Ads et analytics.
 
+La réussite de cette stratégie dépend de ma capacité à mesurer précisément :
+	•	les conversions
+	•	les parcours utilisateurs
+	•	la performance des campagnes
+	•	les indicateurs de rentabilité
+
+Aujourd’hui, je maîtrise les bases de Google Ads et Analytics, mais pas le paramétrage technique avancé ni l’analyse approfondie des données.
+
+Cet approfondissement me permettra :
+	•	d’implémenter un système de tracking fiable pour mon TB
+	•	d’optimiser les campagnes sur base de données mesurables
+	•	de renforcer mon profil professionnel en marketing digital orienté performance_
+  
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+_Je maîtrise :
+	•	la création basique de campagnes Google Ads
+	•	la lecture simple d’indicateurs marketing (CTR, CPC, conversions)
+	•	les bases de Google Analytics
+
+Je ne maîtrise pas :
+	•	la configuration avancée de GA4
+	•	Google Tag Manager
+	•	la création d’événements personnalisés
+	•	le suivi multi-conversion structuré
+	•	l’analyse comportementale avancée
+
+Implication :
+Je dois passer d’un usage utilisateur “interface” à une compréhension technique et stratégique du système de tracking_
+
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART (spécifiques, mesurables, atteignables, réalistes, temporellement mesurables)._
+Objectif 1
 
-_Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de réussite concrets._
+Être capable de configurer un système complet de tracking (GA4 + GTM + Google Ads) d’ici le 6 mars 2026.
+
+Validation :
+	•	Implémenter un tracking fonctionnel sur un site test
+	•	Paramétrer au moins 3 événements personnalisés
+	•	Configurer une conversion Google Ads reliée à GA4
+
+⸻
+
+Objectif 2
+
+Être capable d’analyser et interpréter 5 indicateurs clés de performance marketing.
+
+Validation :
+	•	Produire un mini-rapport d’analyse basé sur des données collectées
+	•	Identifier au moins 2 pistes d’optimisation argumentées
+
+⸻
+
+Objectif 3
+
+Être capable de proposer une optimisation basée sur les données mesurées.
+
+Validation :
+	•	Rédiger un plan d’amélioration basé sur les indicateurs observés._
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+_Phase 1 – Formation théorique (10h)
+	•	Documentation officielle GA4
+	•	Tutoriels GTM
+	•	Guides Google Ads conversion tracking
+
+Phase 2 – Mise en pratique technique (16h)
+	•	Installation GA4 sur site test
+	•	Paramétrage Google Tag Manager
+	•	Création événements personnalisés
+	•	Configuration conversion Google Ads
+
+Phase 3 – Analyse et optimisation (10h)
+	•	Analyse données collectées
+	•	Création dashboard simple
+	•	Identification axes d’amélioration
+	•	Rédaction synthèse_
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+_1.	Comment relier correctement GA4 à Google Ads pour un suivi de conversion fiable ?
+	2.	Quelle différence entre un événement personnalisé, une conversion et un objectif ?
+	3.	Quels KPIs sont réellement pertinents pour évaluer la performance d’une campagne Search ?
+	4.	Comment interpréter un taux d’engagement faible dans GA4 ?
+	5.	Comment utiliser les données comportementales pour améliorer le ROI d’une campagne ?_
 
 ## Expérimentation
 
-_Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
+_L’expérimentation reposera principalement sur la réalisation de formations en ligne officielles via Google Skillshop (Google Ads Search et Google Analytics 4).
+
+Ces formations incluent :
+	•	des modules théoriques progressifs
+	•	des mises en situation
+	•	des quiz intermédiaires
+	•	des examens de certification
+
+L’obtention des certifications constituera une validation formelle de l’acquisition des compétences techniques.
+
+En complément, je réaliserai les exercices pratiques intégrés aux modules afin de tester ma compréhension des concepts abordés (structure de campagne, stratégie d’enchères, lecture de rapports GA4, configuration de conversions).
+
+L’expérimentation sera validée par :
+	•	la réussite des certifications
+	•	la capacité à reformuler et expliquer les concepts appris
+	•	la réponse argumentée aux cinq questions définies dans ce livrable
+
+Cette démarche me permettra de mesurer objectivement ma progression et d’identifier les points nécessitant un approfondissement supplémentaire._
 
 ---
 
