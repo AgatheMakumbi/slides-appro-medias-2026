@@ -8,34 +8,31 @@ Le but de la démarche est de me créer une expertise dans le domaine des LMS. C
 
 ### Contexte
 
-En quoi c'est intéressant pour votre futur professionnel_
-
 Mon travail de Bachelor consiste en la conception et le déploiement d'une plateforme de cours en ligne. La gestion de ces cours se fait via un LMS (Learning Management System). Beaucoup de LMS différents existent et la technologie a déjà subi des évolutions depuis sa conception. Pour me permettre de répondre au mieux à la problématique de mon TB, il me faut acquérir une connaissance sur le contexte et les usages de cette technologie. 
 
 ## État initial
 
 Mon niveau de connaissance actuel se limite à un usage scolaire, principalement de systèmes basés sur Moodle. J'ignore cependant le fonctionnement interne et les besoins pour faire fonctionner un LMS.
-L'avantage est que je n'ai pas d'aprioris sur la technologie mais il va falloir un plus grand éffort pour trouver et reconnaitre des ressources de qualités pour me former.
+L'avantage est que je n'ai pas d'a prioris sur la technologie mais il va falloir un plus grand effort pour trouver et reconnaître des ressources de qualités pour me former.
 
 ## Objectifs
 
-
 1. Découvrir ce qu'est un LMS lister et comprendre les fonctionnalités clés d'un LMS en 9h
-2. Identifier et différencier les types d'hébergements (SaaS et auto-hébergé) ainsi que les license (Open Source et commerciale) et rédiger une synthèse comparative. (9h)
-3. Comprendre et schématiser les différents standards de transfer de données entre un contenu et un LMS (9h)
+2. Identifier et différencier les types d'hébergements (SaaS et auto-hébergé) ainsi que les licences (Open Source et commerciale) dans le contexte des LMS et rédiger une synthèse comparative. (9h)
+3. Comprendre et schématiser les différents standards de transfert de données entre un contenu et un LMS (9h)
 
 ## Démarche
 
 Je pense partager le temps alloué en 4. 3 Quarts pour les objectifs fixés puis répondre aux questions et finalement le dernier quart pour la phase d'expérimentation.
 
 ## 5 questions
-Pour rédiger les questions je me suis basé sur un article: https://www.ispring.com/knowledge-hub/what-is-lms
+Pour rédiger les questions, je me suis basé sur un article : https://www.ispring.com/knowledge-hub/what-is-lms
 
-1. Quelles sont les avantages des LMS auto-hébergé?
-2. Pourquoi le reporting est-il considéré comme l'une des fonctionnalités les plus importantes?
+1. Quels sont les avantages des LMS auto-hébergé ?
+2. Pourquoi le reporting est-il considéré comme l'une des fonctionnalités les plus importantes ?
 3. Comment le standard SCORM permet-il à un cours créé sur un outil externe de fonctionner sur différents LMS ?
-4. Quels sont les coûts pour implémenter un LMS?
-5. Quels sont les différents types d'utilisateurs au sein d'un LMS?
+4. Quels sont les coûts pour implémenter un LMS ?
+5. Quels sont les différents types d'utilisateurs au sein d'un LMS ?
 
 ## Expérimentation
 
