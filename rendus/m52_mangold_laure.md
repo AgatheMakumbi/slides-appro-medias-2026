@@ -1,4 +1,4 @@
-# M52-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M52-1 MANGOLD LAURE - SOLUTIONS D'INTÉGRATION DE DONNÉES SUR FIGMA
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 23 FEVRIER 23h59
 
@@ -6,33 +6,40 @@
 
 **_Décrire le sujet_**
 
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+S'informer sur les solutions disponibles pour intégrer des données à des prototypes Figma et les tester en créant des écrans. 
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ? En quoi c'est intéressant pour votre futur professionnel_
+Mon travail de Bachelor porte sur l’hyper-personnalisation dans le tourisme local. Un des livrables majeurs étant le prototype, je souhaite consacrer ce cours à chercher comment améliorer mes compétences actuelles afin d'en créer un de la meilleure qualité possible. 
 
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+Très maigre : je sais que les variables peuvent être utilisées de cette manière, mais je n'ai jamais eu à intégrée des datasets à mes prototypes Figma jusqu'à présent.  
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART (spécifiques, mesurables, atteignables, réalistes, temporellement mesurables)._
-
-_Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de réussite concrets._
+Je veux tester 3 solutions gratuites d'intégration de données pour créer des écrans Figma et jauger leur utilité durant le temps aloué. 
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+1. Rechercher les solutions actuelles et classer les plus intéressantes
+2. Les trier en testant les fonctionnalités (facile ou pas, gain de temps ou pas)
+3. Rechercher ou créer des datasets
+4. Créer des écrans avec les 3 jugées meilleures
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+1. Suis-je capable d’expliquer les différences entre ces solutions et d’en recommander une selon le périmètre et le besoin ?
+2. A-t-il été facile de les mettre en place ou est-ce une perte de temps comparé à un PoC ?
+3. Ces solutions sont-elles pertinentes pour prototyper de l’hyper-personnalisation ?
+4. Quelles seraient mes propositions d’améliorations pour une solution qui me paraîtrait idéale ?
+5. Les écrans créé avec les solutions semblent-ils apporté une valeur ajoutée à de futurs tests utilisateurs ?
 
 ## Expérimentation
 
-_Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
+Je souhaite réaliser :
+* Un tableau comparatif des solutions (ex. avantages, désavantages, prix, etc)
+* Tester chacune en créant des écrans Figma (ex. profil, notification, suggestion etc)
 
 ---
 
