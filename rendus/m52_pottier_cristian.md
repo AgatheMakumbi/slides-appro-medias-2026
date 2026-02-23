@@ -1,4 +1,4 @@
-# M52-2 POTTIER Cristian – Approfondissement du tracking marketing digital
+# M52-2 POTTIER Cristian – Approfondissement du tracking marketing digital.
 
 ## Mon sujet d'étude
 
