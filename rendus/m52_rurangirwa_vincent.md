@@ -19,21 +19,27 @@ L'avantage est que je n'ai pas d'aprioris sur la technologie mais il va falloir 
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART (spécifiques, mesurables, atteignables, réalistes, temporellement mesurables)._
 
-_Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de réussite concrets._
+1. Découvrir ce qu'est un LMS lister et comprendre les fonctionnalités clés d'un LMS en 9h
+2. Identifier et différencier les types d'hébergements (SaaS et auto-hébergé) ainsi que les license (Open Source et commerciale) et rédiger une synthèse comparative. (9h)
+3. Comprendre et schématiser les différents standards de transfer de données entre un contenu et un LMS (9h)
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+Je pense partager le temps alloué en 4. 3 Quarts pour les objectifs fixés puis répondre aux questions et finalement le dernier quart pour la phase d'expérimentation.
 
 ## 5 questions
+Pour rédiger les questions je me suis basé sur un article: https://www.ispring.com/knowledge-hub/what-is-lms
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+1. Quelles sont les avantages des LMS auto-hébergé?
+2. Pourquoi le reporting est-il considéré comme l'une des fonctionnalités les plus importantes?
+3. Comment le standard SCORM permet-il à un cours créé sur un outil externe de fonctionner sur différents LMS ?
+4. Quels sont les coûts pour implémenter un LMS?
+5. Quels sont les différents types d'utilisateurs au sein d'un LMS?
 
 ## Expérimentation
 
-_Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
+Pour la phase d'expérimentation, j'aimerais mettre en place un framework de sélection de LMS simple qui permet d'entrer des paramètre, par exemple le nombre d'apprenant, d'administrateur et de professeurs ainsi qu'un budget et les fonctionnalités que l'on veut. Sur la base de nos paramètres, l'outil doit nous indiquer vers quel type de plateforme et d'hébergement. Idéalement sous forme de page web.
 
 ---
 
