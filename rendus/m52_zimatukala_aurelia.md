@@ -46,11 +46,11 @@ Enfin, je rédigerai un bilan final d’auto-formation, dans lequel j’analyser
 
 ## 5 questions
 
-1. Comment paramétrer la logique conditionnelle pour diriger un utilisateur vers la vidéo B s'il choisit l'option 1, et vers la vidéo C s'il choisit l'option 2 ?
-2. Comment forcer la collecte des coordonnées d'un répondant pour l'identifier clairement dans la boîte de réception ?
-3. Quelles sont les étapes pour modifier et corriger manuellement la transcription textuelle automatique d'une réponse audio/vidéo reçue ?
-4. Comment créer un système d'étiquettes dans l'interface d'analyse de VideoAsk pour catégoriser efficacement les réponses qualitatives ?
-5. Comment intégrer une étape de consentement explicite (accord d'utilisation de l'image/voix et RGPD) dans le parcours utilisateur avant qu'il ne réponde ?
+1. Comment paramétrer une logique conditionnelle permettant d’orienter un utilisateur vers une vidéo B s’il sélectionne l’option 1, et vers une vidéo C s’il choisit l’option 2, afin de créer un parcours interactif cohérent et personnalisé ?
+2. Comment rendre obligatoire la collecte des coordonnées d’un répondant afin de pouvoir l’identifier clairement et assurer un suivi structuré des réponses ?
+3. Quelles sont les étapes précises pour modifier et corriger manuellement la transcription textuelle automatique générée à partir d’une réponse audio ou vidéo reçue, afin d’en garantir la fiabilité analytique ?
+4. Comment mettre en place un système d’étiquettes dans l’interface d’analyse de VidéoAsk pour catégoriser efficacement les verbatims et faciliter l’identification de thématiques récurrentes ?
+5. Comment intégrer une étape de consentement explicite au sein du parcours utilisateur, avant même que le répondant ne commence l’entretien ?
 
 
 ## Expérimentation
