@@ -1,4 +1,4 @@
-# M52-1/2 FAVRE JOÉ - SUJET_ETUDE
+# M52-1/2 FAVRE JOÉ - Maîtrise des Cartes interactives sur mobile
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 23 FEVRIER 23h59
 
