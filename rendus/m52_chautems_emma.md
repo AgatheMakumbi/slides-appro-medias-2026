@@ -1,4 +1,4 @@
-# M52-1/2 CHAUTEMS EMMA 
+# M52-1/2 CHAUTEMS EMMA — Recherche utilisateur permettant de limiter les biais cognitifs
 
 ## Mon sujet d'étude est La recherche d’information non biaisée chez les futurs utilisateurs d’une plateforme avant la phase de design d’interface
 
