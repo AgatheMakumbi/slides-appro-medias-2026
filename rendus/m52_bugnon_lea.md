@@ -84,7 +84,7 @@ Dans un contexte photographique, cela permet de structurer de grandes quantités
 3. Comment récupérer dynamiquement des images et leurs informations via l’API d’un DAM ?
 
 La récupération des images se fait via l’API du DAM en utilisant une clé API et des requêtes sécurisées. J’ai mis en place un proxy PHP qui interroge l’API et retourne les données au format JSON.
-Cela permet de récupérer automatiquement la liste des images (ref, previews) et de les exploiter dans une interface web dynamique, au lieu de coder les images en dur.
+Cela permet de récupérer automatiquement la liste des images (ref, previews) et de les exploiter dans une interface web dynamique.
 
 4. Quel est le rôle des métadonnées dans la gestion d’images à grande échelle ?
 
