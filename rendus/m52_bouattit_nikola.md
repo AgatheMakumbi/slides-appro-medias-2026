@@ -17,11 +17,11 @@ Je ne l'ai jamais utilisée. Ca me permet de pas passer pour un plouc et de pas 
 
 Python très basique.
 Django 0.
-Pour cette auto-formation ca veut dire que
+Pour cette auto-formation, ça veut dire que je pars avec des connaissances très basiques en Python et aucune expérience de Django, et que je dois d’abord en comprendre les bases avant de pouvoir développer mon application.
 ## Objectifs
 
 D’ici le 6 mars 2026, je serai capable d’installer Python, de configurer un environnement virtuel et de créer un projet fonctionnel avec Django, en lançant le serveur local et en affichant correctement la page d’accueil par défaut.
-D’ici le 6 mars 2026, je développerai une application web simple permettant d'afficher et modifier dynimquement des éléments.
+D’ici le 6 mars 2026, je développerai une application web simple permettant d'afficher et modifier dynamiquement des éléments.
 D’ici le 6 mars 2026, je mettrai en place des modèles et effectuerai les migrations nécessaires afin que les données soient correctement enregistrées et récupérées depuis la base de données SQLite.
 
 _Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de réussite concrets._
@@ -31,7 +31,7 @@ Avoir un projet git installable et ayant toutes les points précédants atteints
 
 ## Démarche
 
-Je vais passer les 36 heures d'investissement a lire de la doc, setup django et python et me casser les dents a développer une aplication web.
+Je vais passer les 36 heures d'investissement a lire de la doc, setup django et python et me casser les dents a développer une application web.
 
 ## 5 questions
 
@@ -41,7 +41,7 @@ Est-ce que je suis capable de créer un projet Django et de lancer le serveur lo
 
 Est-ce que je sais créer des modèles, effectuer les migrations et vérifier que les données sont bien enregistrées dans la base de données ?
 
-Est-ce que j'ai fais suffisament du travail de réflexion moi même et non laisser a l'IA ?
+Est-ce que j'ai fait suffisamment de travail de réflexion moi même et non laisser a l'IA ?
 
 Est-ce que je peux expliquer simplement comment le code fonctionne ?
 
