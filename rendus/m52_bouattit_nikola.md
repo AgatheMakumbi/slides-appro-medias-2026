@@ -11,7 +11,7 @@ Django est la librairie principale du site avec le quel je vais travailler duran
 
 ### Contexte
 
-Je l'ai jamais utiliser. Ca me permet de pas passer pour un plouc et de pas perdre du temps pour le TB a comprendre. Le python est un language pratique en tout temps et partout et connaitre cette librairie ne peut que être un avantage
+Je ne l'ai jamais utilisée. Ca me permet de pas passer pour un plouc et de pas perdre du temps pour le TB a comprendre. Le python est un language pratique en tout temps et partout et connaitre cette librairie ne peut que être un avantage
 
 ## État initial
 
