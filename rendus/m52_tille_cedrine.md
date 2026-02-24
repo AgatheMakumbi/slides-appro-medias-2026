@@ -1,4 +1,4 @@
-# M52-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M52-1 Tille - Buyer journey B2B SaaS : bases et principes UX
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 23 FEVRIER 23h59
 
@@ -6,35 +6,80 @@
 
 **_Décrire le sujet_**
 
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+Auto-formation sur le buyer journey B2B SaaS et les principes de conception de digital touchpoints soutenant la phase de recherche et de considération.
+
+L’étude porte sur :
+
+- les spécificités du parcours d’achat B2B SaaS,
+- les rôles décisionnels multiples,
+- les critères de décision organisationnels,
+- les principes UX permettant de soutenir la prise de décision.
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ? En quoi c'est intéressant pour votre futur professionnel_
+Mon TB portera sur la conception et l’évaluation de digital touchpoints pour un produit SaaS B2B.
+Ce module d’approfondissement me permet d’acquérir en amont un cadre méthodologique sur le parcours d’achat B2B SaaS.
+
+Ce sujet est pertinent car il me permet :
+
+- de mieux comprendre les mécanismes de décision B2B,
+- d’acquérir des outils conceptuels réutilisables dans mon TB,
+- de renforcer mon profil en UX orientée produit B2B.
 
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+A travers la formation, j'ai appris une base relativement solide en UX et en parcours utilisateur, mais principalement pour des clients B2C. Des mentions ont été faites, mais sans aller plus loin. Donc je me situe donc à un niveau intermédiaire en UX généraliste, mais débutant en UX B2B stratégique.
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART (spécifiques, mesurables, atteignables, réalistes, temporellement mesurables)._
+### Objectif 1
 
-_Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de réussite concrets._
+D’ici le 6 mars, être capable de décrire et schématiser un buyer journey B2B SaaS intégrant au minimum trois rôles décisionnels, sur la base de sources documentées.
+
+Validation :
+
+- 1 schéma de buyer journey
+
+### Objectif 2
+
+D’ici le 6 mars, être capable d’identifier au minimum cinq critères de décision B2B SaaS et d’associer à chacun un principe UX permettant de soutenir la prise de décision.
+
+Validation :
+
+- Tableau critères → principes UX
+
+### Objectif 3
+
+D’ici le 6 mars, être capable de concevoir un écran conceptuel structurant l’information selon au moins trois principes UX identifiés, afin d’illustrer leur application dans un contexte B2B SaaS.
+
+Validation :
+
+- 1 wireframe conceptuel annoté
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+- Recherche théorique
+- Synthèse et modélisation
+- Conception wireframe
+- Synthèse et auto-évaluation
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+1. Quelles sont les spécificités d’un buyer journey B2B SaaS ?
+2. Quels rôles décisionnels retrouve-t-on typiquement en B2B ?
+3. Quels critères influencent principalement la décision ?
+4. Comment traduire un critère en principe UX ?
+5. Comment vérifier qu’un touchpoint soutient la prise de décision ?
 
 ## Expérimentation
 
-_Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
+L’expérimentation consiste à réaliser un mini proof of concept comprenant :
 
----
+- un schéma de buyer journey B2B SaaS,
+- un tableau critères → principes UX,
+- un wireframe d’un écran conceptuel.
+
+## Réalisation d'un schéma du buyer journey B2B, ainsi que d'un tableau de critères avec les principes UX à appliquer
 
 # RAPPORT FINAL À RENDRE POUR LE 6 MARS 23h59
 
@@ -47,6 +92,7 @@ _Quel bilan entre les attentes, les objectifs et la réalité de cette auto-form
 _Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
 
 ## Résultat de l'expérimentation
+
 _Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
 
 ## Investissement

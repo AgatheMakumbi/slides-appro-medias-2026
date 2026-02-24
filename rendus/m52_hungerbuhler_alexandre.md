@@ -1,38 +1,46 @@
-# M52-1/2 NOM_DE_FAMILLE PRENOM - SUJET_ETUDE
+# M52-1/2 Hungerbühler Alexandre - L'UX Web3
 
 # ETAT INITIAL ET OBJECTIFS À RENDRE POUR LE 23 FEVRIER 23h59
 
-## Mon sujet d'étude est ...
+## Mon sujet d'étude est l'UX Web3
 
-**_Décrire le sujet_**
-
-_Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
+Mon sujet d’étude porte sur l’UX Design des wallets et des applications de trading Web3, en particulier sur l’importance de l’expérience utilisateur dans un environnement où les transactions sont irréversibles, complexes et sensibles.
 
 ### Contexte
 
-_Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ? En quoi c'est intéressant pour votre futur professionnel_
+J’ai choisi ce sujet car il est directement lié à mon Travail de Bachelor, qui porte sur le design d’un produit physique ou virtuel d'un starter kit bancaire.
 
 ## État initial
 
-_Quel niveau de connaissances et de pratique avez-vous dans le sujet aujourd'hui ? Quelles implications pour vos objectifs et démarches pour cette auto-formation ?_
+Aujourd’hui, j’ai des bases en UX/UI design, une compréhension générale du Web3, une connaissance utilisateur des wallets.
+Cependant, je n’ai pas encore conçu de maquette/prototype wallet complet. Je ne maîtrise pas parfaitement les designs systemes sur figma et je dois approfondir la dimension sécurité de l'utilisateur UX.
 
 ## Objectifs
 
-_Attention à formuler des objectifs SMART (spécifiques, mesurables, atteignables, réalistes, temporellement mesurables)._
+Analyser au minimum 3 wallets crypto existants, Documenter 3 approches UX Web3 différentes, Réaliser un prototype interactif sur Figma.
 
-_Expliquez comment vous allez valider l'atteinte des objectifs. Vos critères de réussite concrets._
+Critères de réussites:
+
+- J'en suis content,
+- Le prototype respecte les critères vues dans l'analyse web3 ux
 
 ## Démarche
 
-_Quelles étapes et comment allez-vous répartir l'investissement des 36h disponibles pour le cours ?_
+- Recherche & Analyse
+- Conception
+- Prototypage
 
 ## 5 questions
 
-_Rédigez 5 questions qui devront vous permettre de tester l'acquisition des nouvelles compétences._
+- Quelles sont les principales étapes lorsqu’un utilisateur envoie une transaction avec un wallet crypto ?
+- Pourquoi l’UX est-elle particulièrement importante dans une application Web3 ?
+- Quels sont les risques pour l’utilisateur dans un wallet ? (3 réponses)
+- Comment rendre l’affichage des frais de transaction plus compréhensible ?
+- Quels éléments doivent apparaître sur un écran de confirmation avant d’envoyer une transaction ?
 
 ## Expérimentation
 
-_Expliquez les contours de la réalisation d'un élément concret (POC, tutoriel) que vous allez réaliser pour valider votre apprentissage_
+L’expérimentation consiste à concevoir un prototype d’un wallet sur Figma. (POC)
 
 ---
 
