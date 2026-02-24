@@ -7,7 +7,7 @@
 **_Décrire le sujet_**
 
 
-Django est la librairie principale du site avec le quel je vais travailler durant mon TB. J'ai déja fais un peu de python et possède des base mais n'ai jamais utiliser cette librairie 
+Django est la librairie principale du site avec le quel je vais travailler durant mon TB. J'ai déjà fais un peu de python et possède des bases mais n'ai jamais utiliser cette librairie 
 
 ### Contexte
 
