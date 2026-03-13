@@ -378,5 +378,5 @@ Un autre point est le **manque de feedback**. Dans un contexte professionnel, on
 1. Je sais maintenant que je suis capable de **mener des tests utilisateurs seule, analyser les résultats et améliorer un prototype**, ce qui me rassure pour le TB.  
 2. J’ai réalisé que j’ai **plus de ressources et de compétences que ce que je pensais**.  
 3. Je suis capable de **me poser les bonnes questions en début de projet**, notamment pour la création des wireframes et du protocole de test.  
-4. Il est normal qu’il y ait des imprévus ou des éléments non anticipés dans un projet : il faut simplement **s’adapter et continuer à avancer**.
+4. Il est normal qu’il y ait des imprévus ou des éléments non anticipés dans un projet : il faut simplement **s’adapter et continuer à avancer**. 
 
